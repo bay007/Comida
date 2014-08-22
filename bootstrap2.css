@@ -1,0 +1,27 @@
+
+.negocio{
+color:#fff;
+background-color: #428BCA;
+border-radius: 4px;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);	
+	}
+
+h2{
+    margin: 0px;     
+    color: #428BCA;
+    padding-top: 90px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;    
+}
+
+.item{
+    background: #428BCA;    
+    text-align: center;
+    height: 250px !important;
+}
+.carousel{
+    margin-top: 20px;
+}
+.bs-example{
+	margin: 20px;
+}
